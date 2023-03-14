@@ -1,0 +1,2 @@
+FILE1=$1
+echo $FILE1
